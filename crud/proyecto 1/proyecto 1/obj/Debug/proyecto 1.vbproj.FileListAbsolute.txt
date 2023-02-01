@@ -1,0 +1,14 @@
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\bin\Debug\proyecto 1.exe.config
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\bin\Debug\proyecto 1.exe
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\bin\Debug\proyecto 1.pdb
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\bin\Debug\proyecto 1.xml
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto 1.vbprojResolveAssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto_1.Admin.resources
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto_1.Form1.resources
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto_1.Resources.resources
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto_1.Secretario.resources
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto 1.vbproj.GenerateResource.Cache
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto 1.exe
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto 1.xml
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto 1.pdb
+C:\Users\joser\OneDrive\Escritorio\proyecto 1\proyecto 1\obj\Debug\proyecto_1.Cliente.resources
